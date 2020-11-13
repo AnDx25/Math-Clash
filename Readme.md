@@ -3,7 +3,7 @@ It is a board game in which player has to select random numbers coming up to add
 Score is calculated on the basis of amount of random numbers we select to make a target sum. More the number of selections more will be the score.
 As soon as a target sum is obtained the selected numbers will get disappear thus making space for new numbers.
 Game ends as soon as the random numbers coming up touches the bottom of the board.
-[![Watch the video](https://img.youtube.com/vi/4CfK8HsaVPY&t=183s/maxresdefault.jpg)](https://www.youtube.com/watch?v=4CfK8HsaVPY&t=183s)
+Live URL : https://andx25.github.io/Math-Clash/
 ## Table of Contents
 * [Points for board games](#points-for-board-games)
 * [Technologies used](#technologies-used)
